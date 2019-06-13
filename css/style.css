@@ -1,3 +1,31 @@
-.menu ul li a:hover{
+body{
+    background-color: #222;
+}
+
+.tcode-head{
+    max-width: 100%;
+    color:#ffff;
+
+}
+.logo{
+    color: rgb(0, 0, 0);
+    max-width: 500px;
+    max-height: 200px;
+    width: 100%;
+    height: 100%;
+
+
+}
+.manu{
+    max-width: 100%;
+}
+.menu ul li:hover{
     background-color: red;
+    
+}
+
+
+.conntent{
+    color: aqua;
+
 }
