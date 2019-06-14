@@ -1,11 +1,12 @@
 body{
+    font-family: 'Times New Roman', Times, serif;
     background-color: #222;
+    color: white;
 }
 
 .tcode-head{
     max-width: 100%;
     color:#ffff;
-
 }
 .logo{
     color: rgb(0, 0, 0);
@@ -16,15 +17,23 @@ body{
 
 
 }
+.b{
+    color:white;
+
+}
+
 .manu{
     max-width: 100%;
 }
 .menu ul li:hover{
-    background-color: red;
+    background-color: #222;
     
 }
 
+a{
+    color: #222;
 
+}
 .conntent{
     color: aqua;
 
